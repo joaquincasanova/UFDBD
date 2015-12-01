@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 11/23/2015 11:10:46 AM
+#
+$CMP MJE2955
+D 2SB817, 12A Ic, 140V Vce, Silicon Power Transistors PNP, TO-3PB
+K  Power Transistor PNP
+$ENDCMP
+#
+#End Doc Library

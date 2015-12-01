@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/23/2015 9:33:17 AM
+
+BeginCmp
+TimeStamp = /56531137;
+Reference = Q1;
+ValeurCmp = 2N3055;
+IdModule  = TO3;
+EndCmp
+
+BeginCmp
+TimeStamp = /56531146;
+Reference = Q2;
+ValeurCmp = MJE2955;
+IdModule  = TO3;
+EndCmp
+
+BeginCmp
+TimeStamp = /565322CF;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /565322C0;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56532226;
+Reference = U1;
+ValeurCmp = LM358;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
