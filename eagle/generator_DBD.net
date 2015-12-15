@@ -1,0 +1,55 @@
+Netlist
+
+Exported from ignition test.sch at 12/14/2015 11:50:19 AM
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
++12V     IC1      8        V+         1
+         T1       C        C          1
+         T1       C/       C          1
+         U$1      P$1      +V         1
+
+-12V     IC1      4        V-         1
+         Q1       C        C          1
+         Q1       C/       C          1
+         U$2      P$2      -V         1
+
+GND      IC1      3        +IN        1
+         J3       A1       1          1
+         J3       A2       1          1
+         U$1      P$2      -V         1
+         U$2      P$1      +V         1
+         X2       2        S          1
+
+L        F1       1        1          1
+         U$1      P$3      ACL        1
+         U$2      P$3      ACL        1
+
+N        J1       A1       1          1
+         J1       A2       1          1
+         U$1      P$4      ACN        1
+         U$2      P$4      ACN        1
+
+N$1      IC1      2        -IN        1
+         R1       2        2          1
+         R2       1        1          1
+
+N$3      J4       A1       1          1
+         J4       A2       1          1
+         Q1       E        E          1
+         R2       2        2          1
+         T1       E        E          1
+
+N$4      R1       1        1          1
+         X2       1        S          1
+
+N$5      F1       2        2          1
+         J2       A1       1          1
+         J2       A2       1          1
+
+N$6      IC1      1        OUT        1
+         Q1       B        B          1
+         T1       B        B          1
+
